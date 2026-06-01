@@ -1,7 +1,7 @@
 {
   description = "A collection of packages that I use on my various Nix-enabled systems";
 
-  inputs.nixpkgs.url = "nixpkgs/nixos-25.05";
+  inputs.nixpkgs.url = "nixpkgs/nixos-26.05";
 
   outputs =
     { nixpkgs, self, ... }:
